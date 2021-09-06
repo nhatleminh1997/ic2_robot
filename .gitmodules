@@ -1,3 +1,9 @@
 [submodule "src/create_robot"]
 	path = src/create_robot
 	url = https://github.com/AutonomyLab/create_robot.git
+[submodule "src/rplidar_ros"]
+	path = src/rplidar_ros
+	url = https://github.com/Slamtec/rplidar_ros.git
+[submodule "src/libcreate"]
+	path = src/libcreate
+	url = https://github.com/AutonomyLab/libcreate
